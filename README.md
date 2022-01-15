@@ -23,3 +23,9 @@ python3 main.py add
 ```
 python3 main.py del
 ```
+
+## Linter
+
+```
+python3 -m pylint main.py
+```
