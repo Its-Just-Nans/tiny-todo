@@ -1,31 +1,24 @@
-# todo-cmd
+# todo
 
 A simple TODO list cmd
 
 This script create and manage your todo list. The list is saved in your home directory as `.todolist`
 
-## Options
+## Installation
 
-### Show list
-
-```
-python3 main.py
+```bash
+python -m pip install tiny_todo
 ```
 
-### Add an item
+## Usage
 
-```
-python3 main.py add
-```
+``` bash
+# show the list
+python -m tiny_todo
 
-### Delete an item
+# add an item
+python -m tiny_todo add
 
-```
-python3 main.py del
-```
-
-## Linter
-
-```
-python3 -m pylint main.py
+# delete an item
+python -m tiny_todo del
 ```
