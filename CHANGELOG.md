@@ -14,7 +14,7 @@ python3 -m twine upload dist/* --verbose
 # enter token
 ```
 
-## 2024-12-06 - 1.0.1
+## 2024-12-06
 
 - Change homepage link
 
