@@ -14,6 +14,10 @@ python3 -m twine upload dist/* --verbose
 # enter token
 ```
 
+## 2024-12-06 - 1.0.1
+
+- Change homepage link
+
 ## 2024-03-23
 
 - Create package `tiny_todo`
